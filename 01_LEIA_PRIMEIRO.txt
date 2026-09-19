@@ -1,0 +1,16 @@
+ECOSCANNER — APRESENTAÇÃO DO TCC
+
+1) Abra este projeto no GitHub Codespaces.
+2) Aguarde a preparação inicial do Codespace (as bibliotecas são instaladas automaticamente).
+3) No terminal, digite:
+
+   npm start
+
+O site usa a porta 5173.
+Se o navegador não abrir sozinho, clique na aba PORTS e depois no endereço da porta 5173.
+
+ALTERNATIVA:
+   ./APRESENTAR.sh
+
+IMPORTANTE PARA A FEIRA:
+Abra e teste o Codespace antes da apresentação, para que as dependências já estejam instaladas.
